@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HizkiasAbraham, Nodejs developer
+- 👋 Hi, I’m @HizkiasAbraham, ReactJs/Nodejs developer
 - 👀 I’m interested in Backend, Database and DevOps development
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on javascript/Nodejs projects
